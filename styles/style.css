@@ -1,0 +1,40 @@
+/*  */
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.text-primary {
+  color: #fd6e0a;
+}
+.btn-primary {
+  background-color: #fd6e0a;
+  border-radius: 5px;
+  border: none;
+}
+nav {
+  display: flex;
+}
+.nav-title {
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+
+nav > ul {
+  display: flex;
+}
+nav li {
+  list-style: none;
+  margin-right: 50px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #474747;
+}
+
+/* nav button {
+  color: #ffffff;
+  width: 150px;
+  height: 64px;
+} */
